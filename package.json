@@ -1,6 +1,6 @@
 {
   "name": "fizz_buzzer",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "A Fizz Buzz example in JavaScript",
   "main": "index.js",
   "scripts": {
